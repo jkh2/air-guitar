@@ -4,7 +4,7 @@
 
 Sentinel Air Guitar puts a guitar in front of you through your webcam. Make chord shapes with the fingers of your fretting hand on the neck, and strum over the body with your other hand, just like the real thing. The camera reads both hands, and the guitar sounds like a guitar. It runs entirely in the browser: one HTML file, no install, no account.
 
-### ▶ [Try the live demo](https://jameskeithharwood.com/sentinel-air-guitar/)
+### ▶ [Try the live demo](https://jameskeithharwood.com/air-guitar/)
 
 Works in a desktop or phone browser. Allow camera access, turn your sound up, and start strumming.
 
